@@ -1,4 +1,4 @@
-"""Tokenization, stemming, lemmatization"""
+"""Tokenization, stemming and lemmatization module"""
 
 import re
 from mystem import analyze
